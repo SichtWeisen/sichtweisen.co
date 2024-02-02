@@ -1,21 +1,24 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Vorteile"
+    url: "#vorteile"
     weight: 2
-  - name: "Team"
-    url: "/team/"
-    weight: 3
-  - name: "About"
-    url: "/about/"
+#   - name: "Preise"
+#     url: "#preise"
+#     weight: 3
+  - name: "Ausprobieren"
+    url: "/coaching-cards"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Über uns"
+    url: "#uber-uns"
     weight: 5
+  - name: "Kontakt"
+    url: "/kontakt-und-impressum/"
+    weight: 6
 
 footer:
-  - name: "Home"
+  - name: "Startseite"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Kontakt &amp; Impressum"
+    url: "/kontakt-und-impressum/"
     weight: 2

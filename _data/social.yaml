@@ -1,0 +1,22 @@
+---
+- name: Instagram
+  link: https://instagram.com/sichtweisen
+  image: images/social/instagram.svg
+- name: Facebook
+  link: https://facebook.com/sichtweisen
+  image: images/social/facebook.svg
+- name: Github
+  link: https://github.com/sichtweisen/sichtweisen-co
+  image: images/social/github.svg
+- name: Email
+  link: mailto:hallo@sichtweisen.co
+  image: images/social/email.svg
+
+# Note: unused but available as icons
+# - name: Twitter
+#   link: https://twitter.com/sichtweisen
+#   image: images/social/twitter.svg
+# - name: Discord
+#   link: https://discord.com
+#   image: images/social/discord.svg
+

@@ -1,13 +1,10 @@
 ---
-title: "Business Sales"
-date: 2019-01-28T15:15:26+10:00
-weight: 2
+title: "Mehr Zeit für Klienten"
+date: 2019-02-28T15:15:34+10:00
+weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Online Angebote erlauben für mehr Zeit in einer Sitzung, weil An- und Abreisezeiten entfallen.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

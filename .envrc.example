@@ -1,0 +1,4 @@
+source_up
+layout ruby
+export BUNDLE_PATH="$(pwd)/.direnv/bundle"
+

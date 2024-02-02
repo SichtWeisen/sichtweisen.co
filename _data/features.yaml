@@ -1,0 +1,22 @@
+---
+- title: Online Kartensystem
+  description: Leg dir eigene Kartendecks an und starte Sitzungen.
+  image:
+    url: images/features/noun_branding_1885335.svg
+    width: 80
+    height: 80
+
+- title: Privat und Vertraulich
+  description: Jede Sitzung ist verschlüsselt und nur für die Teilnehmer sichtbar.
+  image:
+    url: images/features/noun_The Process_1885341.svg
+    width: 80
+    height: 80
+
+- title: Anpassungsfähig
+  description: Starte dein eigenes Kartendeck, passe Farben und Symbole deinen Wünschen an.
+  image:
+    url: images/features/noun_3d modeling_1885342.svg
+    width: 80
+    height: 80
+

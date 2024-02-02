@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'SichtWeisen'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -11,10 +11,10 @@ logo:
   desktop_width: "120px"
 
 home: 
-  limit_services: 6
+  limit_services: 3 # divisible by 3
 
 collections:
-  services:
+  advantages:
     output: true
     sort_by: weight
   team:
