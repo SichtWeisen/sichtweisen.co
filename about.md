@@ -5,14 +5,16 @@ description: Erfahre mehr über das Team hinter SichtWeisen
 bodyClass: page-about
 ---
 
-Hinter SichtWeisen steckt ein inter-disziplinäres super motiviertes Team.
+Hinter SichtWeisen steckt ein interdisziplinäres, motiviertes und starkes Team.
+Gemeinsam stellen wir neue Kommunikationswerkzeuge her, eröffnen neue Wege und wollen damit einen
+positiven Einfluss auf die Leben und Arbeit vieler Coaches und Klienten erreichen.
 
 # Gudrun Klask
 
+![](/images/team/gudrun.png)
+
 Ich bin Gudrun Klask, Heilpraktikerin für Psychotherapie, Sprachpsychologische Therapeutin/Coach,
 Kommunikationstrainerin Diplomcembalistin.
-
-
 
 > Als ausgebildete Cembalistin auf ein feines Ohr getrimmt, erlausche ich als Therapeutin
 der “feinen Zwischentöne” individuelle Stolpersteine oder traumatische Speicherungen in der Sprache.
@@ -31,11 +33,10 @@ Dabei darf es leicht sein und Ziele dürfen mit Genuss und Freude erreicht werde
 
 # Lukas Rieder
 
-![](/images/lukas.jpg)
+![](/images/team/lukas.jpg)
 
-Ich bin Lukas Rieder, Berater, Software-Entwickler, und Unternehmer, Wahlberliner.
+Ich bin Lukas Rieder, Berater, Trainer im Bereich Software Entwicklung, Unternehmen und Freiberufler.
 
 > In meiner Arbeit bin ich stets bemüht Kommunikationsprozesse zu verbessern, Inhalte aufzubereiten
-und sie mit verschiedenen Personen zu teilen.
-
-
+und sie mit Personen mit verschiedensten Hintergründen auf fachlichen und zwischenmenschlicher Ebene zugänglich zu machen.
+Die digitale Welt sind Kommunikationswerkzeuge die jedem neue Wege eröffnen können.
