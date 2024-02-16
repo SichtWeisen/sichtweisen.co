@@ -1,22 +1,19 @@
 main:
-  - name: "Vorteile"
-    url: "#vorteile"
-    weight: 2
-#   - name: "Preise"
-#     url: "#preise"
-#     weight: 3
+  - name: "SichtWeisen"
+    url: "/"
+    weight: 1
   - name: "Ausprobieren"
-    url: "/coaching-cards"
-    weight: 4
+    url: "/register"
+    weight: 2
   - name: "Über uns"
-    url: "#uber-uns"
+    url: "/about"
     weight: 5
   - name: "Kontakt"
     url: "/kontakt-und-impressum/"
     weight: 6
 
 footer:
-  - name: "Startseite"
+  - name: "SichtWeisen"
     url: "/"
     weight: 1
   - name: "Kontakt &amp; Impressum"

@@ -1,0 +1,11 @@
+---
+title: Ausprobieren
+layout: services
+description: Coaching Cards
+intro_image: "images/illustrations/reading.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+---
+
+{% include register.html %}
+

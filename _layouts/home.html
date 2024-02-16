@@ -22,32 +22,6 @@ bodyClass: "page-home"
 </div>
 
 <div class="strip">
-  <a name="vorteile"></a>
-  <div class="container pt-6 pb-6 pb-md-10">
-    <div class="row justify-content-start">
-      {% assign limit = site.home.limit_services | default: 6 %}
-      {% for advantage in site.advantages limit: limit %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              {{ advantage.title }}
-            </h2>
-            <p>{{ advantage.excerpt | markdownify | strip_html | truncate: 100 }}</p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "coaching-cards" | relative_url }}">Jetzt ausprobieren</a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="strip">
   <a name="demo"></a>
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
@@ -61,7 +35,7 @@ bodyClass: "page-home"
   <a name="features"></a>
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
-
+      <h1>Wie funktioniert unser System?</h1>
       {% for feature in site.data.features %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
@@ -75,12 +49,11 @@ bodyClass: "page-home"
       {% endfor %}
 
     </div>
-
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "coaching-cards" | relative_url }}">Jetzt ausprobieren</a>
-      </div>
-    </div>
   </div>
 </div>
 {% endif %}
+
+<div class="strip">
+  {% include register.html %}
+</div>
+
