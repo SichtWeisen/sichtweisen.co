@@ -2,20 +2,23 @@ main:
   - name: "SichtWeisen"
     url: "/"
     weight: 1
-  - name: "Ausprobieren"
-    url: "/register"
-    weight: 2
   - name: "Über uns"
     url: "/about"
-    weight: 5
-  - name: "Kontakt"
-    url: "/kontakt-und-impressum/"
-    weight: 6
+    weight: 2
+  - name: "Ausprobieren"
+    url: "/register"
+    weight: 3
 
 footer:
   - name: "SichtWeisen"
     url: "/"
     weight: 1
-  - name: "Kontakt &amp; Impressum"
-    url: "/kontakt-und-impressum/"
+  - name: "Über uns"
+    url: "/about"
     weight: 2
+  - name: "Impressum"
+    url: "/kontakt-und-impressum/"
+    weight: 3
+  - name: "Mitmachen"
+    url: "/register"
+    weight: 4

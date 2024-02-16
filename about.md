@@ -21,7 +21,15 @@ der “feinen Zwischentöne” individuelle Stolpersteine oder traumatische Spei
 Spannend wie in einem Krimi löse ich gemeinsam mit KlientInnen die angezogenen Handbremsen ihres Lebens,
 um im Hier und Jetzt alle Handlungsoptionen und Ressourcen wieder zur freien Verfügung zu haben.
 
-# Roswita Sterr
+<div class="call">
+  <div class="call-box-top">
+    <div class="call-website"><strong>Website: </strong>
+      <a target=_blank href="https://www.gudrunklask.de/">www.gudrunklask.de</a>
+    </div>
+  </div>
+</div>
+
+# Roswitha Sterr
 
 Ich bin Roswitha Sterr, systemische Coach, Energetikerin, Familienmutter, Wahlberlinerin,
 Genießerin, Hobbyyogini, Bauchmensch uvm.
@@ -30,6 +38,14 @@ Genießerin, Hobbyyogini, Bauchmensch uvm.
 dem individuellen Glück mittels den Ressourcen, welche die eigene Persönlichkeit und
 Spiritualität mit sich bringen.
 Dabei darf es leicht sein und Ziele dürfen mit Genuss und Freude erreicht werden.
+
+<div class="call">
+  <div class="call-box-top">
+    <div class="call-website"><strong>LinkedIn: </strong>
+      <a target=_blank href="https://www.linkedin.com/in/roswitha-sterr/">Roswitha Sterr</a>
+    </div>
+  </div>
+</div>
 
 # Lukas Rieder
 
@@ -40,3 +56,12 @@ Ich bin Lukas Rieder, Berater, Trainer im Bereich Software Entwicklung, Unterneh
 > In meiner Arbeit bin ich stets bemüht Kommunikationsprozesse zu verbessern, Inhalte aufzubereiten
 und sie mit Personen mit verschiedensten Hintergründen auf fachlichen und zwischenmenschlicher Ebene zugänglich zu machen.
 Die digitale Welt sind Kommunikationswerkzeuge die jedem neue Wege eröffnen können.
+
+<div class="call">
+  <div class="call-box-top">
+    <div class="call-website"><strong>Website: </strong>
+      <a target=_blank href="https://www.parlant.co">www.parlant.co</a>
+    </div>
+  </div>
+</div>
+
