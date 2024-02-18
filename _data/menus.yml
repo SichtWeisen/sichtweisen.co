@@ -17,7 +17,7 @@ footer:
     url: "/about"
     weight: 2
   - name: "Impressum"
-    url: "/kontakt-und-impressum/"
+    url: "/imprint"
     weight: 3
   - name: "Mitmachen"
     url: "/register"
