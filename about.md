@@ -9,25 +9,7 @@ Hinter SichtWeisen steckt ein interdisziplinäres, motiviertes und starkes Team.
 Gemeinsam stellen wir neue Kommunikationswerkzeuge her, eröffnen neue Wege und wollen damit einen
 positiven Einfluss auf die Leben und Arbeit vieler Coaches und Klienten erreichen.
 
-# Gudrun Klask
-
-![](/images/team/gudrun.png)
-
-Ich bin Gudrun Klask, Heilpraktikerin für Psychotherapie, Sprachpsychologische Therapeutin/Coach,
-Kommunikationstrainerin Diplomcembalistin.
-
-> Als ausgebildete Cembalistin auf ein feines Ohr getrimmt, erlausche ich als Therapeutin
-der “feinen Zwischentöne” individuelle Stolpersteine oder traumatische Speicherungen in der Sprache.
-Spannend wie in einem Krimi löse ich gemeinsam mit KlientInnen die angezogenen Handbremsen ihres Lebens,
-um im Hier und Jetzt alle Handlungsoptionen und Ressourcen wieder zur freien Verfügung zu haben.
-
-<div class="call">
-  <div class="call-box-top">
-    <div class="call-website"><strong>Website: </strong>
-      <a target=_blank href="https://www.gudrunklask.de/">www.gudrunklask.de</a>
-    </div>
-  </div>
-</div>
+<img src="/images/team/team.jpg" srcset="/images/team/team@0.5jpg 0.5x, /images/team/team.jpg 1x">
 
 # Roswitha Sterr
 
@@ -49,13 +31,11 @@ Dabei darf es leicht sein und Ziele dürfen mit Genuss und Freude erreicht werde
 
 # Lukas Rieder
 
-![](/images/team/lukas.jpg)
-
 Ich bin Lukas Rieder, Berater, Trainer im Bereich Software Entwicklung, Unternehmen und Freiberufler.
 
 > In meiner Arbeit bin ich stets bemüht Kommunikationsprozesse zu verbessern, Inhalte aufzubereiten
 und sie mit Personen mit verschiedensten Hintergründen auf fachlichen und zwischenmenschlicher Ebene zugänglich zu machen.
-Die digitale Welt sind Kommunikationswerkzeuge die jedem neue Wege eröffnen können.
+Die digitale Welt bietet Werkzeuge die jedem neue Wege eröffnen können.
 
 <div class="call">
   <div class="call-box-top">
@@ -65,3 +45,20 @@ Die digitale Welt sind Kommunikationswerkzeuge die jedem neue Wege eröffnen kö
   </div>
 </div>
 
+# Gudrun Klask
+
+Ich bin Gudrun Klask, Heilpraktikerin für Psychotherapie, Sprachpsychologische Therapeutin/Coach,
+Kommunikationstrainerin Diplomcembalistin.
+
+> Als ausgebildete Cembalistin auf ein feines Ohr getrimmt, erlausche ich als Therapeutin
+der “feinen Zwischentöne” individuelle Stolpersteine oder traumatische Speicherungen in der Sprache.
+Spannend wie in einem Krimi löse ich gemeinsam mit KlientInnen die angezogenen Handbremsen ihres Lebens,
+um im Hier und Jetzt alle Handlungsoptionen und Ressourcen wieder zur freien Verfügung zu haben.
+
+<div class="call">
+  <div class="call-box-top">
+    <div class="call-website"><strong>Website: </strong>
+      <a target=_blank href="https://www.gudrunklask.de/">www.gudrunklask.de</a>
+    </div>
+  </div>
+</div>
