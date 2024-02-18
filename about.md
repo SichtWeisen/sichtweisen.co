@@ -31,11 +31,12 @@ Dabei darf es leicht sein und Ziele dürfen mit Genuss und Freude erreicht werde
 
 # Lukas Rieder
 
-Ich bin Lukas Rieder, Berater, Trainer im Bereich Software Entwicklung, Unternehmen und Freiberufler.
+Ich bin Lukas Rieder, Berater und Trainer im Bereich Softwareentwicklung für Unternehmen und Freiberufler.
 
-> In meiner Arbeit bin ich stets bemüht Kommunikationsprozesse zu verbessern, Inhalte aufzubereiten
-und sie mit Personen mit verschiedensten Hintergründen auf fachlichen und zwischenmenschlicher Ebene zugänglich zu machen.
-Die digitale Welt bietet Werkzeuge die jedem neue Wege eröffnen können.
+> In meiner Tätigkeit setze ich mich kontinuierlich dafür ein, Kommunikationsprozesse zu optimieren,
+Inhalte aufzubereiten und sie Personen mit unterschiedlichsten Hintergründen auf fachlicher
+und zwischenmenschlicher Ebene zugänglich zu machen.
+Die digitale Welt bietet uns Werkzeuge, die jedem individuelle Möglichkeiten eröffnen können.
 
 <div class="call">
   <div class="call-box-top">
