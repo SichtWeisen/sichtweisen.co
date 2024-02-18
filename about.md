@@ -6,8 +6,9 @@ bodyClass: page-about
 ---
 
 Hinter SichtWeisen steckt ein interdisziplinäres, motiviertes und starkes Team.
-Gemeinsam stellen wir neue Kommunikationswerkzeuge her, eröffnen neue Wege und wollen damit einen
-positiven Einfluss auf die Leben und Arbeit vieler Coaches und Klienten erreichen.
+Gemeinsam entwickeln wir neue Kommunikationswerkzeuge, erschließen neue Wege und
+wollen damit einen positiven Einfluss auf das Leben und die Arbeit zahlreicher
+Coaches und Klienten zu nehmen.
 
 <img src="/images/team/team.jpg" srcset="/images/team/team@0.5jpg 0.5x, /images/team/team.jpg 1x">
 
