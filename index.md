@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# SichtWeisen – Coaching Cards: Ein Bild sagt mehr als tausend Wort..
+# SichtWeisen – Coaching Cards: Ein Bild sagt mehr als tausend Worte..
 
 ... und lädt als Online Tool zu neuen Lösungen in Coaching, Training, Therapie, Supervision oder Meetings ein.
 
