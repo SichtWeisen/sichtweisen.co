@@ -10,7 +10,7 @@ Gemeinsam entwickeln wir neue Kommunikationswerkzeuge, erschließen neue Wege un
 wollen damit einen positiven Einfluss auf die Arbeit zahlreicher
 Coaches nehmen.
 
-<img src="/images/team/team.jpg" srcset="/images/team/team@0.5jpg 0.5x, /images/team/team.jpg 1x">
+![Roswita Sterr, Lukas Rieder und Gudrun Klask](/images/team/team.jpg)
 
 # Roswitha Sterr
 
