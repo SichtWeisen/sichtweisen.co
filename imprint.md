@@ -16,7 +16,7 @@ Elbestr. 8
 ### Kontakt:
 
 Telefon: +4934434713698  
-E-Mail: hallo@sichtweisen.co
+E-Mail: info@sichtweisen.co
 
 ### Vertreten durch:
 Lukas Rieder, Gudrun Klask und Roswitha Sterr
