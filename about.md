@@ -60,7 +60,7 @@ um im Hier und Jetzt alle Handlungsoptionen und Ressourcen wieder zur freien Ver
 <div class="call">
   <div class="call-box-top">
     <div class="call-website"><strong>Website: </strong>
-      <a target=_blank href="https://www.gudrunklask.de/">www.gudrunklask.de</a>
+      <a target=_blank href="https://www.trauma-worte-heilen.de/">www.trauma-worte-heilen.de</a>
     </div>
   </div>
 </div>
